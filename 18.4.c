@@ -10,7 +10,7 @@ struct sinhvien
 
 int main()
 {
-    struct sinhvien sv[5];
+    struct sinhvien sv[50];
     for(int i=0;i<5;i++)
     {
     printf("Nhap thong tin sv thu %d",i+1);
